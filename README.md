@@ -1,5 +1,5 @@
-# **TEAM PROJECT**
-## <도와조>
+# <도와조>
+## **TEAM PROJECT**
 
 #### **팀원**
 
