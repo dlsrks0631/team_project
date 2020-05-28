@@ -1,5 +1,5 @@
 # **TEAM PROJECT**
-
+## - 도와 **조** -
 
 ## **팀원**
 
@@ -13,6 +13,5 @@
 #### * 김제현
 #### * 발진냠
 
-## 프로젝트 제목
 
 ![Team](https://user-images.githubusercontent.com/65211547/83039463-2de9b780-a079-11ea-8a5f-d658569eca4b.png)
